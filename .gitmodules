@@ -1,0 +1,3 @@
+[submodule "xinghui"]
+	path = xinghui
+	url = git@github.com:hug-love/xinghui.git
